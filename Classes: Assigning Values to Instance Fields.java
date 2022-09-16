@@ -1,3 +1,29 @@
+*/ Layout */
+  
+  public class mulClass {
+    // declare instance fields
+    /* type */ /*ver name  */;
+    
+// constructor method
+public class (/*parameters. Ex: String one, in count, double price*/) {
+    // assign values to instance fields here
+    /* ver name */ = /* paramater*/;
+
+}
+
+    public static void main(String[] args) {
+        // make a new instance
+         /* class name */ /*new instance name */ = new /*Class name */(/* parameters. Ex: class. In order */);
+  }
+
+}
+
+
+
+
+
+
+
 public class Store {
   // instance fields
   String productType;
