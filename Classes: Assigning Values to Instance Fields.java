@@ -16,7 +16,10 @@ public class Store {
     Output: Fractals
   */  
     
-    /* Classes: Multiple Fields */
+    
+    
+    
+ /* Classes: Multiple Fields */
     
 public class Store {
   // instance fields
@@ -36,6 +39,8 @@ public class Store {
     Store cookieShop = new Store("cookies", 12, 3.75);
   }
 }
+    
+    
     
     
     /* Review */
